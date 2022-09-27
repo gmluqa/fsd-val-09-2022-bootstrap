@@ -1,0 +1,27 @@
+body {
+  height: 100%;
+}
+
+#padlock {
+  background-color: green;
+  height: 5vh;
+  width: 5vh;
+}
+
+#log-in-button {
+  background-color: aqua;
+  border-color: aqua;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("/img/background.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
